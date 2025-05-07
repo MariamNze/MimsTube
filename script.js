@@ -101,7 +101,7 @@ function displayVideos(videos) {
 };
 
 
-function searchVideos(videos) {
+function searchedVideos(videos) {
     const searchBar = document.getElementById("search-bar");
     const searchButton = document.getElementById("search-button");
 
@@ -114,7 +114,7 @@ function searchVideos(videos) {
 
 
 displayVideos(videos);
-searchVideos(videos);
+searchedVideos(videos);
 
 
 
