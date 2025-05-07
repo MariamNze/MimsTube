@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ebe6fa;
+}
+
+h1 {
+    text-align: left;
+
+}
+
+#search-button {
+    background-color: #926ffb;
+}
+
+
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 24px;
+}
+
+
+
+.video {
+    width: 32%;
+    font-family: Roboto, sans-serif;
+}
+
+
+.video-thumbnail {
+    width: 100%;
+    border-radius: 12px;
+    object-fit: cover;
+}
+
+.video-duration {
+    color: black;
+    background: #ebe6fa;
+    border-radius: 4px;
+    padding: 2px 6px;
+    font-size: 12px;
+    position: absolute;
+    right: 12px;
+    bottom: 12px;
+}
+
+.thumbnail-info {
+    position: relative;
+}
+
+
+.profile-pic {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+.video-title {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0 0 4px 0;
+    padding-right: 24px;
+    line-height: 20px;
+}
+
+.video-channel {
+    font-size: 14px;
+    color: #484848;
+    margin: 0 -1.4px 0 0;
+    padding: 0 1.4px 0 0;
+}
+
+.video-channel:hover {
+    color: black;
+}
+
+.verified {
+    color: #FFFFFF;
+    width: 16px;
+    height: 16px;
+    background-color: darkviolet;
+    border-radius: 50%;
+}
+
+.video-stats {
+    font-size: 14px;
+    color: #484848;
+    margin: 0;
+}
+
+.video-info {
+    display: flex;
+    margin-top: 10px;
+}
