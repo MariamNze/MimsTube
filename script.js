@@ -67,7 +67,6 @@ const videos = [
 ];
 
 
-
 function filterByTitle(videos, searchedTitle) {
     return videos.filter((video) => video.title.toLowerCase().includes(searchedTitle.toLowerCase()));
 };
