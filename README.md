@@ -7,8 +7,10 @@
 
 Projet completed during my training course [DWWM](https://gretaformation.ac-orleans-tours.fr/formation/titre-professionnel-developpeur-web-et-web-mobile) at [MAME](https://mame-tours.com/).
 
-**Objective** : Exercise in Algorithms with a focus on the DOM.
 
-**Description** : Create a web page similar to YouTube's Homepage.
+**Objective** : Exercise in Algorithms & Manipulation of the DOM.
 
-<img src= "homepage.png" width="600"/>
+**Description** : Create a web page similar to YouTube's Homepage.  
+Show 6 recommended videos and a search bar.
+
+<img src= "screenshot-mimstube.png" width="600"/>
