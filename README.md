@@ -5,10 +5,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 
-Projet completed during my training course [DWWM](https://gretaformation.ac-orleans-tours.fr/formation/titre-professionnel-developpeur-web-et-web-mobile) at [MAME](https://mame-tours.com/).
-
-
-**Objective** : Exercise in Algorithms & Manipulation of the DOM.
+**Objective** : Exercise on Algorithms & Manipulation of the DOM.
 
 **Description** : Create a web page similar to YouTube's Homepage.  
 Show 6 recommended videos and a search bar.
